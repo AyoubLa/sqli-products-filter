@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpBaseProject;
+namespace ProductsFilter;
 
 class Greeting
 {
